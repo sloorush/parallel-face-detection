@@ -1,0 +1,1 @@
+# Parallelized face detection algorithm
