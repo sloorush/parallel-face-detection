@@ -141,3 +141,5 @@ cython_debug/
 
 !testfiles/*.mp4
 crowdFace.jpg
+
+Review3.docx
