@@ -140,3 +140,4 @@ cython_debug/
 *.mp4
 
 !testfiles/*.mp4
+crowdFace.jpg
