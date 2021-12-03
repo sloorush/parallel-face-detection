@@ -24,8 +24,8 @@ def ImageFaceDetect(fn, file_name):
     print("No of faces = ", len(faces))
 
     # Display the output
-    # cv2.imshow('img', img)
-    # cv2.waitKey()
+    cv2.imshow("img", img)
+    cv2.waitKey()
 
 
 if __name__ == "__main__":
